@@ -1,0 +1,19 @@
+{
+  "name": "first-image-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "first-image-search-load": "^0.4.0",
+    "micro": "latest",
+    "node-fetch": "^1.7.2",
+    "url": "latest",
+    "urldecode": "^1.0.1"
+  }
+}
